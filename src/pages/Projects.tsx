@@ -35,7 +35,7 @@ const Projects = () => {
           category,
           details: {
             onDemand: project.onDemand,
-            allImages: project.allImagesProjects,
+            allImages: project.allImagesProjects ,
           },
         });
       });
@@ -63,7 +63,7 @@ const Projects = () => {
   return (
     <div className="max-w-6xl mx-auto px-4 py-12">
       <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }} className="text-center mb-12">
-        <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">Mes Projets</h1>
+        <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">Mes Projets: OC</h1>
         <p className="text-xl text-gray-600 max-w-2xl mx-auto">
           Découvrez une sélection de mes réalisations récentes. Chaque projet reflète ma passion pour l'innovation et la qualité.
         </p>

@@ -1,111 +1,122 @@
 {
   "html": [
-  {
-    "eventKey": "projet1",
-    "title": "Projet 1",
-    "nameProject": "Booki",
-    "description": "Réalisation d'un site d'agence de voyage.",
-    "onDemand": "L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.",
-    "techno": ["html", "css"],
-    "imageProject": "/images/booki.png",
-    "gitLink": "https://github.com/Chloe-86/p2-responsive",
-    "allImagesProjects": ["/images/booki.png"]
-  },
-  {
-    "eventKey": "projet2",
-    "title": "Projet 2",
-    "nameProject": "Oh my food",
-    "description": "Réalisation d'une interface de réservation pour un restaurant en partie front-end.",
-    "onDemand": "Une jeune startup qui voudrait s'imposer sur le marché de la restauration à new York,  a besoin d'une interface de réservation pour son restaurant gastronomique.",
-    "techno": ["CSS", "HTML"],
-    "imageProject": "/images/ohmyfood.png",
-    "gitLink": "https://github.com/Chloe-86/P3-responsive",
-    "allImagesProjects": ["/images/ohmyfood.png", "/images/ohmyfood-2.png"]
-  }
+    {
+      "eventKey": "projet1",
+      "title": "Projet 1",
+      "nameProject": "Game on",
+      "description": "Réalisation pour la PME, GameOn, spécialisée dans les conférences et les concours de jeux. Réalisation d'un formulaire et refonte d'un site déjà existant.",
+      "onDemand": "L’entreprise souhaite développer un questionnaire sur le thème des jeux vidéo. Le formulaire doit être responsive et s’adapter à tous les écrans.",
+      "techno": ["html", "css", "js"],
+      "imageProject": "/images/gameon.png",
+      "gitLink": "https://github.com/Chloe-86/GameOn-website-FR",
+      "allImagesProjects": ["/images/gameon.png", "/images/gameon-2.png"]
+    },
+    {
+      "eventKey": "projet2",
+      "title": "Projet 2",
+      "nameProject": "Oh my food",
+      "description": "Réalisation d'une interface de réservation pour un restaurant en partie front-end.",
+      "onDemand": "Une jeune startup qui voudrait s'imposer sur le marché de la restauration à new York,  a besoin d'une interface de réservation pour son restaurant gastronomique.",
+      "techno": ["CSS", "HTML"],
+      "imageProject": "/images/ohmyfood.png",
+      "gitLink": "https://github.com/Chloe-86/P3-responsive",
+      "allImagesProjects": ["/images/ohmyfood.png", "/images/ohmyfood-2.png"]
+    }
   ],
   "wp": [
-      {
-    "eventKey": "projet1",
-    "title": "Projet 1",
-    "nameProject": "Simple Vintage",
-    "description": "Réalisation d'un site de showroom pour une marque de vêtements vintage.",
-    "onDemand": "L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des vêtements vintage à la mode.",
-    "techno": ["wordpress", "html", "css", "php", "js"],
-    "imageProject": "/images/simpleVintage.png",
-    "gitLink": "pas de git disponible",
-    "allImagesProjects": ["/images/simpleVintage.png"]
-  }
+    {
+      "eventKey": "projet1",
+      "title": "Projet 1",
+      "nameProject": "Simple Vintage",
+      "description": "Réalisation d'un site de showroom pour une marque de vêtements vintage.",
+      "onDemand": "L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des vêtements vintage à la mode.",
+      "techno": ["wordpress", "html", "css", "php", "js"],
+      "imageProject": "/images/simpleVintage.png",
+      "gitLink": "pas de git disponible",
+      "allImagesProjects": ["/images/simpleVintage.png"]
+    }
   ],
   "php": [
-      {
-    "eventKey": "projet1",
-    "title": "Projet 1",
-    "nameProject": "The ArtBox",
-    "description": "Réalisation d'un site de photos pour une galerie d'art.",
-    "onDemand": "L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des photos d'art.Le site doit etre réalisé en php.",
-    "techno": ["html", "css", "php"],
-    "imageProject": "/images/theartbox.png",
-    "gitLink": "pas de git disponible",
-    "allImagesProjects": ["/images/theartbox.png", "/images/theartbox-2.png"]
-  }
+    {
+      "eventKey": "projet1",
+      "title": "Projet 1",
+      "nameProject": "The ArtBox",
+      "description": "Réalisation d'un site de photos pour une galerie d'art.",
+      "onDemand": "L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des photos d'art. Le site doit être réalisé en PHP.",
+      "techno": ["html", "css", "php"],
+      "imageProject": "/images/theartbox.png",
+      "gitLink": "pas de git disponible",
+      "allImagesProjects": ["/images/theartbox.png", "/images/theartbox-2.png"]
+    }
   ],
   "js": [
-     {
-    "eventKey": "projet1",
-    "title": "Projet 1",
-    "nameProject": "Game on",
-    "description": "Réalisation pour la PME, GameOn, spécialisée dans les conférences et les concours de jeux. Réalisation d'un formulaire et refonte d' un site deja existant.",
-    "onDemand": "L’entreprise souhaite développer un questionaire sur le thème des jeux vidéo. Le formulaire doit être responsive et s’adapter à tous les écrans.",
-    "techno": ["html", "css", "js"],
-    "imageProject": "/images/gameon.png",
-    "gitLink": "https://github.com/Chloe-86/GameOn-website-FR",
-    "allImagesProjects": ["/images/gameon.png", "/images/gameon-2.png"]
-  },
     {
-    "eventKey": "projet2",
-    "title": "Projet 2",
-    "nameProject": "Les petits plats",
-    "description": "Réalisation dde l'interface visuel pour un site de cuisine pour un restaurant les petits plats.",
-    "onDemand": "L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des recettes de cuisine à l'aide d 'un algorithme de recherche crée en js.",
-    "techno": ["html", "css", "javascript"],
-    "imageProject": "/images/lespetitsplats.png",
-    "gitLink": "https://github.com/Chloe-86/p7bis-les-petits-plats",
-    "allImagesProjects": ["/images/lespetitsplats.png", "/images/lespetitsplats-2.png"]
-  },
+      "eventKey": "projet1",
+      "title": "Projet 1",
+      "nameProject": "Game on",
+      "description": "Réalisation pour la PME, GameOn, spécialisée dans les conférences et les concours de jeux. Réalisation d'un formulaire et refonte d' un site deja existant.",
+      "onDemand": "L’entreprise souhaite développer un questionaire sur le thème des jeux vidéo. Le formulaire doit être responsive et s’adapter à tous les écrans.",
+      "techno": ["html", "css", "js"],
+      "imageProject": "/images/gameon.png",
+      "gitLink": "https://github.com/Chloe-86/GameOn-website-FR",
+      "allImagesProjects": ["/images/gameon.png", "/images/gameon-2.png"]
+    },
     {
-    "eventKey": "projet3",
-    "title": "Projet 3",
-    "nameProject": "Billed",
-    "description": "Débuggez et testez un SaaS RH",
-    "onDemand": "Débuggez et testez un SaaS RH grace a l'utilisation de Jest et chrome debuguer.",
-    "techno": ["html", "css", "jest"],
-    "imageProject": "/images/billed-2.png",
-    "gitLink": "https://github.com/Chloe-86/fr-BApp",
-    "allImagesProjects": ["/images/billed-1.png", "/images/billed-3.png"]
-  }
+      "eventKey": "projet2",
+      "title": "Projet 2",
+      "nameProject": "Les petits plats",
+      "description": "Réalisation de l'interface visuelle pour un site de cuisine pour le restaurant Les Petits Plats.",
+      "onDemand": "L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des recettes de cuisine à l'aide d'un algorithme de recherche créé en JS.",
+      "techno": ["html", "css", "javascript"],
+      "imageProject": "/images/lespetitsplats.png",
+      "gitLink": "https://github.com/Chloe-86/p7bis-les-petits-plats",
+      "allImagesProjects": ["/images/lespetitsplats.png", "/images/lespetitsplats-2.png"]
+    },
+    {
+      "eventKey": "projet3",
+      "title": "Projet 3",
+      "nameProject": "Billed",
+      "description": "Débuggez et testez un SaaS RH.",
+      "onDemand": "Débuggez et testez un SaaS RH grâce à l'utilisation de Jest et Chrome Debugger.",
+      "techno": ["html", "css", "jest"],
+      "imageProject": "/images/billed-2.png",
+      "gitLink": "https://github.com/Chloe-86/fr-BApp",
+      "allImagesProjects": ["/images/billed-1.png", "/images/billed-3.png"]
+    }
   ],
   "react": [
-     {
-    "eventKey": "projet1",
-    "title": "Projet 1",
-    "nameProject": "Fisheye",
-    "description": "Réalisation de l'interface visuel Fisheye pour partager des photos.",
-    "onDemand": "Réalisation pour l ’entreprise Fisheye un site de partage de photos .Le site doit permettre de partager des photos de les trier et de les liker.",
-    "techno": ["html", "css", "js", "react"],
-    "imageProject": "/images/fisheye.png",
-    "gitLink": "https://github.com/Chloe-86/p6-Fisheye-v1-react/tree/fisheye-v2",
-    "allImagesProjects": ["/images/fisheye.png"]
-  },
-   {
-    "eventKey": "projet2",
-    "title": "Projet 2",
-    "nameProject": "Kaza",
-    "description": "Réalisation de l'interface visuel pour une agence immobilière kaza",
-    "onDemand": "L’entreprise souhaite une refonte de son site pour son agence immobilière. Le site doit permettre de trouver des biens à la vente ou à la location.",
-    "techno": ["html", "css", "js", "react"],
-    "imageProject": "/images/kasa.png",
-    "gitLink": "https://github.com/Chloe-86/p11-react",
-    "allImagesProjects": ["/images/kasa-2.png", "/images/casa-3.png", "/images/casa-4.png"]
-  }
+    {
+      "eventKey": "projet1",
+      "title": "Projet 1",
+      "nameProject": "Fisheye",
+      "description": "Réalisation de l'interface visuelle Fisheye pour partager des photos.",
+      "onDemand": "Réalisation pour l’entreprise Fisheye d'un site de partage de photos. Le site doit permettre de partager des photos, de les trier et de les liker.",
+      "techno": ["html", "css", "js", "react"],
+      "imageProject": "/images/fisheye.png",
+      "gitLink": "https://github.com/Chloe-86/p6-Fisheye-v1-react/tree/fisheye-v2",
+      "allImagesProjects": ["/images/fisheye.png"]
+    },
+    {
+      "eventKey": "projet2",
+      "title": "Projet 2",
+      "nameProject": "Kaza",
+      "description": "Réalisation de l'interface visuelle pour une agence immobilière Kaza.",
+      "onDemand": "L’entreprise souhaite une refonte de son site pour son agence immobilière. Le site doit permettre de trouver des biens à la vente ou à la location.",
+      "techno": ["html", "css", "js", "react"],
+      "imageProject": "/images/kasa.png",
+      "gitLink": "https://github.com/Chloe-86/p11-react",
+      "allImagesProjects": ["/images/kasa-2.png", "/images/casa-3.png", "/images/casa-4.png"]
+    },
+    {
+      "eventKey": "projet3",
+      "title": "Projet 3",
+      "nameProject": "Portfolio",
+      "description": "Réalisation de mon portfolio en react (projet personnel)",
+      "onDemand": "Création d'un portfolio pour présenter mes projets et compétences.",
+      "techno": ["react", "typescript", "vite", "tailwindcss", "framer-motion", "lucide-react", "postcss", "gh-pages"],
+      "imageProject": "/images/portfolio.png",
+      "gitLink": "https://github.com/Chloe-86/chloe-86.github.io/",
+      "allImagesProjects": ["/images/portfolio.png"]
+    }
   ]
 }
