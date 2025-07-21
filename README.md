@@ -48,7 +48,7 @@ public/
 ## 🔗 Démo
 
 Le site est déployé sur GitHub Pages :
-[https://Chloe-86.github.io/DevFr-cdr](https://Chloe-86.github.io/DevFr-cdr)
+[https://Chloe-86.github.io]
 
 ## 📦 Installation locale
 
@@ -63,13 +63,6 @@ npm run dev
 npm run deploy
 ```
 
-## 📬 Contact
 
-Pour toute question ou proposition de projet :
-
-- Email : chloe.dev@example.com
-- LinkedIn : [linkedin.com/in/chloe-dev](https://linkedin.com/in/chloe-dev)
-
----
 
 Merci de votre visite !
