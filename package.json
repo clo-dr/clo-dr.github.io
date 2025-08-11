@@ -1,9 +1,9 @@
 {
-  "name": "chloe-86-github-io",
+  "name": "clo-dr",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Chloe-86.github.io",
+  "homepage": "https://Clo-dr.github.io",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
