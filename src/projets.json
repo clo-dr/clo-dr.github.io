@@ -8,7 +8,7 @@
       "onDemand": "L’entreprise souhaite développer un questionnaire sur le thème des jeux vidéo. Le formulaire doit être responsive et s’adapter à tous les écrans.",
       "techno": ["html", "css", "js"],
       "imageProject": "/images/gameon.png",
-      "gitLink": "https://github.com/clo-dr/GameOn-website-FR",
+      "gitLink": "https://github.com/clo-dr/pf/GameOn-website-FR",
       "allImagesProjects": ["/images/gameon.png", "/images/gameon-2.png"]
     },
     {
@@ -19,7 +19,7 @@
       "onDemand": "Une jeune startup qui voudrait s'imposer sur le marché de la restauration à new York,  a besoin d'une interface de réservation pour son restaurant gastronomique.",
       "techno": ["CSS", "HTML"],
       "imageProject": "/images/ohmyfood.png",
-      "gitLink": "https://github.com/clo-dr/P3-responsive",
+      "gitLink": "https://github.com/clo-dr/pf/P3-responsive",
       "allImagesProjects": ["/images/ohmyfood.png", "/images/ohmyfood-2.png"]
     }
   ],
@@ -58,7 +58,7 @@
       "onDemand": "L’entreprise souhaite développer un questionaire sur le thème des jeux vidéo. Le formulaire doit être responsive et s’adapter à tous les écrans.",
       "techno": ["html", "css", "js"],
       "imageProject": "/images/gameon.png",
-      "gitLink": "https://github.com/clo-dr/GameOn-website-FR",
+      "gitLink": "https://github.com/clo-dr/pf/GameOn-website-FR",
       "allImagesProjects": ["/images/gameon.png", "/images/gameon-2.png"]
     },
     {
@@ -69,7 +69,7 @@
       "onDemand": "L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des recettes de cuisine à l'aide d'un algorithme de recherche créé en JS.",
       "techno": ["html", "css", "javascript"],
       "imageProject": "/images/lespetitsplats.png",
-      "gitLink": "https://github.com/clo-dr/p7bis-les-petits-plats",
+      "gitLink": "https://github.com/clo-dr/pf/p7bis-les-petits-plats",
       "allImagesProjects": ["/images/lespetitsplats.png", "/images/lespetitsplats-2.png"]
     },
     {
@@ -80,7 +80,7 @@
       "onDemand": "Débuggez et testez un SaaS RH grâce à l'utilisation de Jest et Chrome Debugger.",
       "techno": ["html", "css", "jest"],
       "imageProject": "/images/billed-2.png",
-      "gitLink": "https://github.com/clo-dr/fr-BApp",
+      "gitLink": "https://github.com/clo-dr/pf/fr-BApp",
       "allImagesProjects": ["/images/billed-1.png", "/images/billed-3.png"]
     }
   ],
@@ -93,7 +93,7 @@
       "onDemand": "Réalisation pour l’entreprise Fisheye d'un site de partage de photos. Le site doit permettre de partager des photos, de les trier et de les liker.",
       "techno": ["html", "css", "js", "react"],
       "imageProject": "/images/fisheye.png",
-      "gitLink": "https://github.com/clo-dr/p6-Fisheye-v1-react/tree/fisheye-v2",
+      "gitLink": "https://github.com/clo-dr/pf/p6-Fisheye-v1-react/tree/fisheye-v2",
       "allImagesProjects": ["/images/fisheye.png"]
     },
     {
@@ -104,7 +104,7 @@
       "onDemand": "L’entreprise souhaite une refonte de son site pour son agence immobilière. Le site doit permettre de trouver des biens à la vente ou à la location.",
       "techno": ["html", "css", "js", "react"],
       "imageProject": "/images/kasa.png",
-      "gitLink": "https://github.com/clo-dr/p11-react",
+      "gitLink": "https://github.com/clo-dr/pf/p11-react",
       "allImagesProjects": ["/images/kasa-2.png", "/images/casa-3.png", "/images/casa-4.png"]
     },
     {
