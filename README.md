@@ -48,7 +48,7 @@ public/
 ## 🔗 Démo
 
 Le site est déployé sur GitHub Pages :
-[https://clo-dr/pf.github.io]
+[https://clo-dr.github.io]
 
 ## 📦 Installation locale
 
