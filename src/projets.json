@@ -115,7 +115,7 @@
       "onDemand": "Création d'un portfolio pour présenter mes projets et compétences.",
       "techno": ["react", "typescript", "vite", "tailwindcss", "framer-motion", "lucide-react", "postcss", "gh-pages"],
       "imageProject": "/images/portfolio.png",
-      "gitLink": "https://github.com/clo-dr.github.io/",
+      "gitLink": "https://github.com/clo-dr/clo-dr.github.io",
       "allImagesProjects": ["/images/portfolio.png"]
     }
   ]

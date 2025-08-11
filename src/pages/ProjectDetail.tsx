@@ -92,9 +92,8 @@ const ProjectDetail = () => {
                 <motion.button
                   key={index}
                   onClick={() => setCurrentImageIndex(index)}
-                  className={`flex-shrink-0 w-20 h-20 rounded-lg overflow-hidden border-2 transition-all duration-200 ${
-                    currentImageIndex === index ? "border-indigo-500 scale-105" : "border-gray-200 hover:border-indigo-300"
-                  }`}
+                  className={`flex-shrink-0 w-20 h-20 rounded-lg overflow-hidden border-2 transition-all duration-200 ${currentImageIndex === index ? "border-indigo-500 scale-105" : "border-gray-200 hover:border-indigo-300"
+                    }`}
                   whileHover={{ scale: currentImageIndex === index ? 1.05 : 1.1 }}
                   whileTap={{ scale: 0.95 }}
                 >
@@ -155,7 +154,9 @@ const ProjectDetail = () => {
               </motion.a>
             )}
           </div>
-
+          {project.link !== "https://github.com/clo-dr/clo-dr.github.io" && (
+            <span>(private repository: demander accès collaborators)</span>
+          )}
           {/* Informations supplémentaires */}
           <div className="bg-gray-50 p-6 rounded-xl">
             <h3 className="text-xl font-semibold text-gray-900 mb-3">Informations</h3>
