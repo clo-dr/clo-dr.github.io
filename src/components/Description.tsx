@@ -5,7 +5,7 @@ const Description = () => {
   const personalInfo = {
     titre: "Développeuse Front-End",
     description: `Faisant suite à une reconversion professionnelle et passionnée par l'informatique en soif d'apprentissage et de curiosité. 
-    Récemment diplômée, je suis à la recherche de nouvelles opportunités pour mettre en pratique mes compétences et continuer à apprendre.`,
+    Récemment diplômée, je suis à la recherche de nouvelles opportunités pour mettre en pratique mes compétences.`,
   };
 
   const competences = {
@@ -45,20 +45,14 @@ const Description = () => {
       titre: "Développeur Wordpress",
       ecole: "Openclassrooms",
       annee: "2023",
-      certification_france_competences: "Développeur intégrateur web",
+      certification_france_competences: "Développeur intégrateur web / bac+2",
     },
     {
       titre: "Développeur Javascript react",
       ecole: "Openclassrooms",
       annee: "2025",
-      certification_france_competences: "Concepteur logiciel",
-    },
-    {
-      titre: "En cours d'apprentissage",
-      ecole: "Framework Angular",
-      annee: "2025",
-      certification_france_competences: "Certification openclassrooms",
-    },
+      certification_france_competences: "Concepteur logiciel / bac+4",
+    }
   ];
 
   const technologies = [
@@ -371,9 +365,10 @@ const Description = () => {
                   <Calendar size={16} className="text-indigo-600 mr-2" />
                   <span className="text-indigo-600 font-semibold text-sm">{diplome.annee}</span>
                 </div>
-                <h3 className="text-lg font-semibold text-gray-900">{diplome.titre}</h3>
-                <p className="text-gray-600 font-medium">{diplome.ecole}</p>
-                <p className="text-gray-500 text-sm">{diplome.certification_france_competences}</p>
+                <p className="text-gray-500 text-sm">{diplome.ecole} :</p>
+                <h3 className="text-lg font-semibold text-gray-700">{diplome.titre}</h3>
+                <p className="text-gray-500 text-sm">Certification france compétences : </p>
+                <p className="text-lg font-semibold text-gray-700">{diplome.certification_france_competences}</p>
               </motion.div>
             ))}
           </div>
