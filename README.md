@@ -48,7 +48,7 @@ public/
 ## 🔗 Démo
 
 Le site est déployé sur GitHub Pages :
-[https://Chloe-86.github.io]
+[https://clo-dr/pf.github.io]
 
 ## 📦 Installation locale
 

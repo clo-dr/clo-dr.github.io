@@ -93,7 +93,7 @@
       "onDemand": "Réalisation pour l’entreprise Fisheye d'un site de partage de photos. Le site doit permettre de partager des photos, de les trier et de les liker.",
       "techno": ["html", "css", "js", "react"],
       "imageProject": "/images/fisheye.png",
-      "gitLink": "https://github.com/clo-dr/pf/p6-Fisheye-v1-react/tree/fisheye-v2",
+      "gitLink": "https://github.com/Clo-dr/pf/p6-Fisheye-v1-react/tree/fisheye-v2",
       "allImagesProjects": ["/images/fisheye.png"]
     },
     {
@@ -104,7 +104,7 @@
       "onDemand": "L’entreprise souhaite une refonte de son site pour son agence immobilière. Le site doit permettre de trouver des biens à la vente ou à la location.",
       "techno": ["html", "css", "js", "react"],
       "imageProject": "/images/kasa.png",
-      "gitLink": "https://github.com/clo-dr/pf/p11-react",
+      "gitLink": "https://github.com/Clo-dr/pf/p11-react",
       "allImagesProjects": ["/images/kasa-2.png", "/images/casa-3.png", "/images/casa-4.png"]
     },
     {
@@ -115,7 +115,7 @@
       "onDemand": "Création d'un portfolio pour présenter mes projets et compétences.",
       "techno": ["react", "typescript", "vite", "tailwindcss", "framer-motion", "lucide-react", "postcss", "gh-pages"],
       "imageProject": "/images/portfolio.png",
-      "gitLink": "https://github.com/clo-dr.github.io/",
+      "gitLink": "https://github.com/clo-dr/pf.github.io/",
       "allImagesProjects": ["/images/portfolio.png"]
     }
   ]
